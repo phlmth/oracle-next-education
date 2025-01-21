@@ -1,2 +1,2 @@
-# alura-one
-projetos feitos na formação alura one
+## projetos feitos durante a formação da alura one
+
