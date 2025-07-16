@@ -1,4 +1,4 @@
-## projetos feitos durante o programa alura one
+## projetos feitos durante o programa oracle next education
 
 Formação iniciantem em programação
 - [Jogo do número secreto](https://github.com/ze-xyz/desafio-numero-secreto)
